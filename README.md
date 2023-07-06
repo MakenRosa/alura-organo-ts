@@ -1,6 +1,8 @@
 # Organo-TS
 
-Este é um projeto desenvolvido durante o curso "React com TypeScript" da Alura, que é a continuação do curso anterior "React". Neste curso, foi abordado o uso do TypeScript em conjunto com o React, permitindo explorar as principais diferenças entre TypeScript (TS) e JavaScript (JS), bem como as vantagens de utilizar o TypeScript em aplicações React. Além disso, os tópicos abordados incluem:
+Este é um projeto desenvolvido durante o curso "React: migrando para TypeScript" da Alura. (8 horas, Concluído)
+
+É a continuação do curso anterior "React: desenvolvendo com JavaScript". Neste curso, foi abordado o uso do TypeScript em conjunto com o React, permitindo explorar as principais diferenças entre TypeScript (TS) e JavaScript (JS), bem como as vantagens de utilizar o TypeScript em aplicações React. Além disso, os tópicos abordados incluem:
 
 - Integração de componentes React com TypeScript.
 - Utilização do IntelliSense do VSCode para obter sugestões de código e melhorar a produtividade.
